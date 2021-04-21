@@ -1,4 +1,4 @@
-# MSGW Project deliverable 3: timeline
+# MSGW2021 Project deliverable 4: timeline
 
 To create your own timeline for this project deliverable, you will need:
 
